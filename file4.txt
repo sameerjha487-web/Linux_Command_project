@@ -1,0 +1,31 @@
+LINUX TEXT PROCESSING AND HISTORY PRACTICAL
+
+1. Search and replace text:
+   sed 's/Ludhiana/Jalandhar/g' file1.txt
+
+2. Sort student records by name:
+   tail -n +2 file1.txt | sort -t '|' -k2
+
+3. Sort student records by marks:
+   tail -n +2 file1.txt | sort -t '|' -k4,4n
+
+4. Display command history:
+   history
+
+5. Find text files:
+   find . -name "*.txt"
+
+6. Count lines:
+   wc -l file1.txt
+
+7. Display the current directory:
+   pwd
+
+8. List files:
+   ls -l
+
+9. Display the current user:
+   whoami
+
+10. Display user and group IDs:
+    id

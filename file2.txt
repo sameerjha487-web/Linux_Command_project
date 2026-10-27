@@ -1,0 +1,28 @@
+LINUX PERMISSIONS PRACTICAL
+
+1. Display permissions:
+   ls -l file1.txt
+
+2. Change permissions:
+   chmod 640 file2.txt
+
+3. Give the owner execute permission:
+   chmod u+x file2.txt
+
+4. Remove the owner's execute permission:
+   chmod u-x file2.txt
+
+5. Display the current user:
+   whoami
+
+6. Display user and group information:
+   id
+
+7. Change file ownership:
+   sudo chown "$USER" file2.txt
+
+8. Change group ownership:
+   sudo chgrp "$(id -gn)" file2.txt
+
+9. Display detailed file information:
+   stat file2.txt

@@ -1,0 +1,12 @@
+ID|NAME|COURSE|MARKS|CITY
+101|Aman Sharma|BCA|85|Ludhiana
+102|Priya Verma|BSc|92|Chandigarh
+103|Rahul Kumar|BCA|76|Delhi
+104|Simran Kaur|BCom|88|Amritsar
+105|Neha Singh|BCA|95|Ludhiana
+106|Arjun Mehta|BSc|67|Delhi
+107|Karan Gill|BCom|81|Chandigarh
+108|Anjali Sharma|BCA|90|Amritsar
+109|Rohit Verma|BSc|73|Ludhiana
+110|Pooja Kumari|BCom|86|Delhi
+111|Test Student|BCA|80|Ludhiana

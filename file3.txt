@@ -1,0 +1,25 @@
+LINUX FILE MANAGEMENT PRACTICAL
+
+1. Display file contents:
+   cat file1.txt
+
+2. Display the first five lines:
+   head -n 5 file1.txt
+
+3. Display the last five lines:
+   tail -n 5 file1.txt
+
+4. View file contents page by page:
+   less file1.txt
+
+5. Copy a file:
+   cp file1.txt student_copy.txt
+
+6. Rename a file:
+   mv student_copy.txt student_backup.txt
+
+7. Display a message:
+   echo "Linux practical project"
+
+8. Append a student record:
+   echo "111|Test Student|BCA|80|Ludhiana" >> file1.txt
